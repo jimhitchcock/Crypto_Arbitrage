@@ -6,8 +6,10 @@ I used pandas for python for the analysis.
 ---
 ## Technologies
 
-[Pandas](https://pandas.pydata.org/)
-Path from [pathlib](https://docs.python.org/3/library/pathlib.html)
+[Pandas](https://pandas.pydata.org/),
+
+Path from [pathlib](https://docs.python.org/3/library/pathlib.html),
+
 [%matplotlib inline](https://matplotlib.org/)
 ---
 ## Installation Guide
